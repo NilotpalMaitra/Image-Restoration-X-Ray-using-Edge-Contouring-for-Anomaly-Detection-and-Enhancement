@@ -1,3 +1,17 @@
+
+
+
+Nilotpal Maitra-22ECB0F07 
+Darsh Tibrewal-22ECB0F05 
+
+Guided by: 
+                                      Dr.P. Prithvi 
+
+DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING NATIONAL INSTITUTE OF TECHNOLOGY, WARANGAL 
+2023-2024
+
+
+
 # Introduction
 
 This project aims to design and implement an image restoration system using edge contouring on a Field Programmable Gate Array (FPGA). The system is designed to detect anomalies in images, such as a metal piece in a patient’s X-ray, and restore the image to its original form. The restoration process leverages the information from neighboring pixels and the edges detected in the image. The edge contouring technique helps in predicting the values of the corrupted or missing pixels, thereby restoring the image. The entire process, including image acquisition, preprocessing, edge detection, anomaly detection, image restoration, post processing, and display/storage, is implemented on an FPGA. The parallel processing capabilities of FPGAs make them well-suited for this kind of high-speed image processing task. The project uses Verilog, a hardware description language, for the design and implementation of the digital circuits on the FPGA. The effectiveness of the restoration process is validated through rigorous testing. This project represents a significant contribution to real-time image processing applications, particularly in the medical imaging field.
