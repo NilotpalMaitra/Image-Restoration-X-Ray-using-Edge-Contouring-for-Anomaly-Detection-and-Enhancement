@@ -4,8 +4,6 @@
 Nilotpal Maitra-22ECB0F07 
 Darsh Tibrewal-22ECB0F05 
 
-Guided by: 
-                                      Dr.P. Prithvi 
 
 DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING NATIONAL INSTITUTE OF TECHNOLOGY, WARANGAL 
 2023-2024
